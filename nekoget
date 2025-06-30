@@ -121,7 +121,7 @@ if args.version:
 yand = args.yande_re
 
 if not yand:
-    url = "https://api.nekosapi.com/v3/images/random"
+    url = "https://api.nekosapi.com/v4/images/random"
 else:
     url = "https://yande.re/post.json"
 
